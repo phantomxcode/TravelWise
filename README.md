@@ -3,7 +3,7 @@
   
   # ✈️ TravelWise
   
-  ### AI-Powered Travel Planning Made Simple
+  ### AI-Powered Travel Planning Made Simple 
   
   [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
